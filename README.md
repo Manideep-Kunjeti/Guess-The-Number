@@ -10,7 +10,7 @@ This game is developed using C Programming using srand function and some user in
 - As you guess the number correct, you won.
 
 ### Setup Instructions
-1. Install VS Code (recommended) from here <a href="https://code.visualstudio.com/Download"></a>.
+1. Install VS Code (recommended) from <a href="https://code.visualstudio.com/Download">here</a>.
 2. Or else you can use your favourite IDE.
 3. Download this repository as zip and extract.
 4. Run the code and start guessing numbers.
