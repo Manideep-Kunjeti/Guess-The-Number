@@ -1,2 +1,20 @@
-# Guess-The-Number
-The Computer generates a random number between 0 & 1000 and it asks us to Guess the number.If the guessed number is wrong it gives us hint whether the guessed number is Greater or Lower than the generated number so that we can try one more time.This process goes on till you make the correct guess.
+## Guess The Number
+This game is developed using C Programming using srand function and some user inputs.
+
+### About the game
+- It's a basic C program which generates a random number and asks the user to guess.
+- It iterates over loop till the generated number matches user input.
+
+### How to play?
+- Just run the program and enter numbers between 0 and 1000.
+- As you guess the number correct, you won.
+
+### Setup Instructions
+1. Install VS Code (recommended) from here <a href="https://code.visualstudio.com/Download"></a>.
+2. Or else you can use your favourite IDE.
+3. Download this repository as zip and extract.
+4. Run the code and start guessing numbers.
+5. Have fun :)
+
+### Output
+<img align="center" alt="output" src="guessnum.png">
