@@ -17,4 +17,4 @@ This game is developed using C Programming using srand function and some user in
 5. Have fun :)
 
 ### Output
-<img style="align-items: center;" alt="output" src="guessnum.png">
+<img style="align-items: center;" alt="output" src="guessnum1.png">
